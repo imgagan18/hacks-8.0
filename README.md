@@ -36,7 +36,5 @@ The web app is built using Bootstrap, HTML, CSS & JavaScript. It is hosted on Cl
 
 It provides users with information on startup, and what we do.
 
-## Our Team
-
-- [Nikhil Dixit] - @nikhildixit27
-
+## Contributors
+Our team consisted of: [@Qwerty-133](https://github.com/Qwerty-133/), [@imgagan18](https://github.com/imgagan18/), [@nikdixit](https://github.com/nikdixit/), [@krishna-ravishan](https://github.com/krishna-ravishan/) 
