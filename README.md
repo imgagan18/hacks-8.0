@@ -1,7 +1,8 @@
 # RouteWise (A submission for the Hacks-8.0 hackathon)
 
 RouteWise is a a smart bus routing system, to optimize passenger inflow/outflow in city buses.
-Here's the technologies we're using:
+
+We've built machine learning algorithms to perform the optimization and a web app to provide information to our users.
 
 ## Machine Learning
 
@@ -34,3 +35,8 @@ Once the process is completed, we have a set of routes which are optimal for the
 The web app is built using Bootstrap, HTML, CSS & JavaScript. It is hosted on Cloudflare Pages on a custom domain: <https://routewise.qwertys.tech>
 
 It provides users with information on startup, and what we do.
+
+## Our Team
+
+- [Nikhil Dixit] - @nikhildixit27
+
